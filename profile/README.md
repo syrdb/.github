@@ -1,7 +1,7 @@
 <p align=center>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/logo_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="images/logo_light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/images/logo_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/images/logo_light.svg">
     <img alt="Logo" src="images/logo_light.svg">
   </picture>
   <br>
